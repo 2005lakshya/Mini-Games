@@ -34,7 +34,7 @@ class PlayGame extends StatelessWidget {
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: <Widget>[
                   Text(
-                    "Lakshya's Games",
+                    "Mini Games",
                     style: TextStyle(color: Colors.white, fontSize: 40),
                   ),
                 ],
